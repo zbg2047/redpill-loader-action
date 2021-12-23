@@ -1,11 +1,10 @@
 {
   "extra_cmdline": {
-    "vid": "0xABAB",
-    "pid": "0xABAB",
-    "sn": "125XXXX",
-    "netif_num":"2",
-    "mac1": "0011XXXX",
-    "mac2": "0011XXXX"
+    "vid": "0x058f",
+    "pid": "0x6387",
+    "sn": "A8ODN02468",
+    "netif_num":"1",
+    "mac1": "0011322CA603"
     },
     "synoinfo": {
     "maxdisks" : "16",
