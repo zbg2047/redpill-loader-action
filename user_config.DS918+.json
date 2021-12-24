@@ -4,7 +4,7 @@
     "pid": "0x6387",
     "sn": "A8ODN02468",
     "netif_num":"1",
-    "mac1": "0011322CA603"
+    "mac": "0011322CA603"
     },
     "synoinfo": {
     "maxdisks" : "16",
